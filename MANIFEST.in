@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include girocheck *.css
+recursive-include girocheck *.csv
+recursive-include girocheck *.html
+recursive-include girocheck *.ico
+recursive-include girocheck *.js
+recursive-include girocheck *.json
+recursive-include girocheck *.md
+recursive-include girocheck *.png
+recursive-include girocheck *.py
+recursive-include girocheck *.svg
+recursive-include girocheck *.txt
+recursive-exclude girocheck *.pyc
