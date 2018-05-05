@@ -10,6 +10,7 @@ app_icon = "octicon octicon-plus"
 app_color = "#FEE771"
 app_email = "develop@ridhosribumi.com"
 app_license = "MIT"
+fixtures = ["Custom Script", "Custom Field"]
 
 # Includes in <head>
 # ------------------
